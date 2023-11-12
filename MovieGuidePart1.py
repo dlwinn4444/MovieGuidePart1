@@ -22,7 +22,7 @@ def main(m_list):
         break
       else:
        print("Not a valid command. Please try again.")
-      main(m_list) 
+       main(m_list) 
 
   
 # Main Menu fuction
